@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "Doctor": "Dr.Sneha" },
+    { "id": 2, "Engineer": "Er.Sneha" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "Wanted to become": "Another Lost dream", "postId": 1 },
+    { "id": 2, "Forced to become": "A dream come true", "postId": 1 }
+  ],
+  "profile": {
+    "name": "my_careers"
+  }
+}
